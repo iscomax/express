@@ -1,4 +1,4 @@
-var Task= require('../models/task.js');
+/*var Task= require('../models/task.js');
 
 exports.getTasks = (req, res, next) => {
   Task.find((err, tasks) => {
@@ -9,4 +9,4 @@ exports.getTasks = (req, res, next) => {
     res.status(200).send(tasks);
   }
   });
-}
+}*/
